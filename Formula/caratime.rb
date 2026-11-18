@@ -7,9 +7,9 @@
 class Caratime < Formula
   desc "Time tracking from what your agents and git actually did"
   homepage "https://github.com/CaraCodeDev/caratime-app"
-  url "https://github.com/CaraCodeDev/homebrew-caratime/releases/download/v0.4.0/caratime-0.4.0-darwin-arm64.tar.gz"
-  version "0.4.0"
-  sha256 "e9be8df689580fd27de589c57151b0430ab53c6727d854fb20c6b628c02ca878"
+  url "https://github.com/CaraCodeDev/homebrew-caratime/releases/download/v0.5.0/caratime-0.5.0-darwin-arm64.tar.gz"
+  version "0.5.0"
+  sha256 "af1f124926838df45094f5e99f8ca3b28826d4a31577b17bfdb4afc224174901"
   license :cannot_represent
 
   depends_on arch: :arm64
